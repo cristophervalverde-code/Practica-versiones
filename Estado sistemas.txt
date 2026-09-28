@@ -1,4 +1,4 @@
 Registro del sistema
 Sistema: SIGIA
-Estado: Probado
-Observaciones: Pruebas realizadas correctamente
+Estado: Aprobado
+Observaciones: Version aprobada para entrega
