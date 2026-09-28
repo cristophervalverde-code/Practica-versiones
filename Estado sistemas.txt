@@ -1,4 +1,4 @@
 Registro del sistema
-SistemaSIGIA
-Estado: En revision
-Observaciones:Pendiente de pruebas
+Sistema: SIGIA
+Estado: Probado
+Observaciones: Pruebas realizadas correctamente
